@@ -1,0 +1,9 @@
+{
+    "name": "E33_CameraMod",
+    "version": "1.0.0",
+    "author": "CameraModder",
+    "description": "Enhanced camera controls for Expedition 33",
+    "license": "MIT",
+    "dependencies": [],
+    "entry_script": "main.lua"
+}
